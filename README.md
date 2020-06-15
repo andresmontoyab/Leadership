@@ -1,6 +1,6 @@
 # Leadership
 
-* [Responsabilities)
+* [Responsabilities](#Responsabilities)
     * [Technical](#Technical)
 		* [Technical Design](#Technical-Design)
 		* [Planning](#Planning)
