@@ -1,12 +1,11 @@
 # Leadership
 
-*[Leadership](#Leadership)
-	* [Responsabilities](#Responsabilities)
-		* [Technical](#Technical)
-		* [Operation Management](#Operation-Management)
-		* [Team Support](#Team-Support)	
-	* [Atributes](#Atributes)
-	* [Activities](#Activities)
+* [Responsabilities](#Responsabilities)
+	* [Technical](#Technical)
+	* [Operation Management](#Operation-Management)
+	* [Team Support](#Team-Support)	
+* [Atributes](#Atributes)
+* [Activities](#Activities)
 *[Customer Centricity](#Customer-Centricity)
 	*[Connections](#Connections)
 	*[Economy Expirience](#Economy-Expirience)
