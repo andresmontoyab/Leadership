@@ -1,17 +1,17 @@
 # Leadership
 
-*(Leadership)[#Leadership]
+*[Leadership](#Leadership)
 	* [Responsabilities](#Responsabilities)
 		* [Technical](#Technical)
 		* [Operation Management](#Operation-Management)
 		* [Team Support](#Team-Support)	
 	* [Atributes](#Atributes)
 	* [Activities](#Activities)
-*(Customer Centricity)[#Customer-Centricity]
-	*(Connections)[#Connections]
-	*(Economy Expirience)[#Economy-Expirience]
-		*(Authenticity)[#Authenticity]
-*(Communication)[#Communication]		
+*[Customer Centricity](#Customer-Centricity)
+	*[Connections](#Connections)
+	*[Economy Expirience](#Economy-Expirience)
+		*[Authenticity](#Authenticity)
+*[Communication](#Communication)		
 	
 
 # Responsabilities
@@ -20,24 +20,24 @@
 
 Nurturing, enforcing and monitoring the technical excellence.
 
-### Technical Design
+1. Technical Design
 
 You should be able to design solution with sustainable architecture, we need to be scalable and expose it to the customer.
 
-### Planning
+2. Planning
 
 You hold the responsability of planning, you should be able to estimate epic, stories and project task in order to get a proactive teams.
 
-### Process Related
+3. Process Related
 
 Action or step that TL must follow in order to complain with the globant process standars, having a good documentation, help your team members have a better
 understanding in how to build from there with the minimum help or assistance, as TL you have to encourage your team to document, unit & integration testing and also metrics.
 
-### Reporting
+4. Reporting
 
 Creating and sharing status reports with the customer, development team and other areas within globant. 
 
-### Escalating
+4. Escalating
 
 Related to your ability to rise concerns and follow the proper escalation process.
 
@@ -45,24 +45,24 @@ Related to your ability to rise concerns and follow the proper escalation proces
 
 Putting together the best team from inception to achieve client satisfation
 
-### Managing
+1. Managing
 
 Managing responsability is something that you share with the project manager, both have the authority over the team, one of the technical side and 
 the other one in the delivery side.
 
-### Building
+2. Building
 
 Building the technical team, it is fundamental to assemble the right team with the right level of knowledge
 
-### Expanding
+3. Expanding
 
 Expanding the opportunities of grow within the account, this is something that you need to seek in an active manner.
 
-### Hiring
+4. Hiring
 
 Mean that you need to participate in the hiring an interviewing process of the new potenial candidate for the company.
 
-### Maintaining
+5. Maintaining
 
 You and your team need to  medium exceed customer expectations
 
@@ -70,23 +70,23 @@ You and your team need to  medium exceed customer expectations
 
 Understanding the strength and interest of each member to figure out how the team fits together as a group.
 
-### Motivating
+1. Motivating
 
 Your guide them to the best posiuble result, we can do this by exparing them, setting clear goals making sure they undestand why the outcome matters
 
-### Comunicating
+2. Comunicating
 
 Communicating with others place an important role, that is why you need to be able to communicate your ideas with other in an effective, simple and concise manner.
 
-### Wellness
+3 Wellness
 
 Building an environment of trust, openness and safe experimentation that allow them to share they ideas and solutions.
 
-### Training & Mentoring
+4. Training & Mentoring
 
 Training and mentoring your team, it has to do with helping them to develop their skills, hard and soft, knowledge and experience to improve their skills
 
-### Coaching
+5. Coaching
 
 You need to be capable tutoring your team to achieve excellence.
 
@@ -96,28 +96,28 @@ An atribute is a characteristic that defines a person or a thing
 
 The main atributes that you need to have as a TL are :
 
-## Leader
+1. Leader
 
 You need to be capable of provide direction and motivation to help member of your team that master different discipline to achieve their goals.
 
-## Result Oriented
+2. Result Oriented
 
 Clearly understand which result are important and have the ability to stay focus and drive your team to achieve them.
 
-## Customer Oriented
+3. Customer Oriented
 
 Customer is our number one priority, you need to be able to align the needs of the customer to the final outcome and know how to drive the team
 to achieve that goal.
 
-## Technologist
+4. Technologist
 
 Having deep knowledge in the latest technologies trends is important, it allows you to be capable an easily present alternatives and new features.
 
-## Effective Communicator
+5. Effective Communicator
 
 You need to be a master in concise, clear and personalized commuinication, also ensure you said the right expectation with your customer and technical team. 
 
-## Mentor & Coaching
+6. Mentor & Coaching
 
 A TL is an expert in helping other to step out to the next challenges, that is posible through guidance and by delegating task to encourage to the grow of the team.
 
