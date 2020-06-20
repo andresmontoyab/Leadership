@@ -6,11 +6,11 @@
 	* [Team Support](#Team-Support)	
 * [Atributes](#Atributes)
 * [Activities](#Activities)
-*[Customer Centricity](#Customer-Centricity)
-	*[Connections](#Connections)
-	*[Economy Expirience](#Economy-Expirience)
-		*[Authenticity](#Authenticity)
-*[Communication](#Communication)		
+* [Customer Centricity](#Customer-Centricity)
+	* [Connections](#Connections)
+	* [Economy Expirience](#Economy-Expirience)
+		* [Authenticity](#Authenticity)
+* [Communication](#Communication)		
 	
 
 # Responsabilities
