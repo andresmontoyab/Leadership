@@ -1,35 +1,18 @@
 # Leadership
 
-* [Responsabilities](#Responsabilities)
-    * [Technical](#Technical)
-		* [Technical Design](#Technical-Design)
-		* [Planning](#Planning)
-		* [Process Related](#Process-Related)
-		* [Reporting](#Reporting)
-		* [Escalating](#Escalating)	
-	* [Operation Management](#Operation-Management)
-		* [Managing](#Managing)
-		* [Building](#Building)
-		* [Expanding](#Expanding)
-		* [Hiring](#Hiring)
-		* [Maintaining](#Maintaining)
-	* [Team Support](#Team-Support)	
-		* [Motivating](#Motivating)
-		* [Comunicating](#Comunicating)
-		* [Wellness](#Wellness)
-		* [Training & Mentoring](#Training-&-Mentoring)
-		* [Coaching](#Coaching)
-* [Atributes](#Atributes)
-	* [Leader](#Leader)
-	* [Result Oriented](#Result-Oriented)
-	* [Customer Oriented](#Customer-Oriented)
-	* [Technologist](#Technologist)
-	* [Effective Communicator](#Effective-Communicator)
-	* [Mentor & Coaching](#Mentor-&-Coaching)
-* [Activities](#Activities)
-	* [Technical Activities](#Technical-Activities)
-	* [Operation & Management Activites](#Operation-&-Management-Activites)
-	* [Team Support Activities](#Team-Support-Activities)
+*(Leadership)[#Leadership]
+	* [Responsabilities](#Responsabilities)
+		* [Technical](#Technical)
+		* [Operation Management](#Operation-Management)
+		* [Team Support](#Team-Support)	
+	* [Atributes](#Atributes)
+	* [Activities](#Activities)
+*(Customer Centricity)[#Customer-Centricity]
+	*(Connections)[#Connections]
+	*(Economy Expirience)[#Economy-Expirience]
+		*(Authenticity)[#Authenticity]
+*(Communication)[#Communication]		
+	
 
 # Responsabilities
 
@@ -187,3 +170,116 @@ TL have many daily activities.
 6. Act as a role model.
 
 7. Follow the carreer path of each member of the team.
+
+# Customer Centricity
+
+What are the processes, procedures, daily decision and customer services that we made every single day as a employee that is going to have impact on that customer, 
+in order to start improve our customer centricity there are three initial steps that can help, intentionality, basically means start thinking about how to impact,
+how to give to the customer a better experience, secondly Ownership 
+
+1. Intentionality: thinking about how to impact, how to give to the customer a better experience.
+2. Ownership
+3. Do something about it.
+ 
+## Connections
+
+Nowadays client wants connections, human moments and personal experiences for this reason is so important listening customer voices, likes and dislikes, if you
+want to build relationships, empathy is a must have.
+
+## Economy Expirience
+
+There are four important concepts when we are talking about economy experience:
+
+1. Commodites: a raw material or primary agricultural product that can be bought and sold
+2. Good: A good in economics is any object or product (factors of production) that is useful. Goods are created with Commodites
+3. Services: In economics, a service is an economic activity where an immaterial exchange of value occurs. One example of services are order 
+lunch to be delivery in your house
+4. Experience: It means businesses that orchestrate memorable events for their customers, and that memory itself becomes the product: the "experience".
+
+![](https://github.com/andresmontoyab/Leadership/blob/master/resources/progression-economy.PNG) 
+
+## Authenticity
+
+In order to achieve experience you must have Authenticy
+
+## Authenticity in terms of Bussiness
+
+1. Dont say you're authentic unless you really are authentic.
+2. It is easy to be authentic, if you dont say you're authentic
+3. If you say you're authentic you better be authentic
+
+## Authenticity in terms of Consumers
+
+1. What we what we'll make us happy is spending our time and our money satisfatying the desire for authenticity.
+
+# Communication
+
+Communication basically is transfer data, and usually has the prime objective of to make the receiverget your point of view.
+
+## Kind Of Communications
+
+1. Verbal
+
+Something that use the medium of speech. Examples are dialogue, conversation among others
+
+2. Written Communication
+
+This is when the medium is the written word, some example can be email or books
+
+3. Non Verbal
+
+The Verbal and written communication are explicit communication, the non verbal communication is not a explicit one
+some examples of non verbal communication are facial expression, tone of speech even the distance at which you stand from the other person.
+
+4. Data Driven Communication
+
+Is where the data has been assemble and presented, and example of this is a graph.
+
+## Effective Strategies
+
+1. Step Approach
+
+The "Step Approach" is basically give the information one step at the time, sometimes we usually use the One Step Approach that basically means
+give all the information at once, that maybe can cause some confusion in the receiver, so for this reason the Step Approach is more useful because we can
+divide the information and guide the receiver step by step.
+
+2. Inclusive Communication
+
+When we are transfering information we must be inclusive, What inclusive means?, When we are in a team work we have to keep in mind
+that every person is different, every person has different level of experiences or even knowledge, for this reason we need to speak/communicate with
+the required empathy towards our audience, and that means communicate in way that every team member can understand us, It does not matter their experience or knowledge.
+
+## Effective Structures 
+
+Studies say that people collect structured information 40% better.
+
+1. Past/Present/Future
+
+In this structure we have to take into account the three stages, past, present and future.
+
+In the past we basically point to create a representation of past event, some examples could be 
+"What went right?", "What were the previous achievements?" or "What we could be done better".
+
+In the present is important highlight what is the current status of the project/situation(It will be very useful ask for feedback in this step.)
+
+In the future, we need to talk about the incoming task, open question about it.
+
+2. Problem , Solution, Benefit
+
+Categorise your data into the positives, the problems at hand and what needs to be done.
+
+Problem -> What is the problem, Thing that get impacted because of the problem., What is the severity of the problem
+
+Solution -> What are the solutions at hand?, Which Solutions would you choose and why
+
+Don´t just focus on the problems. Give enough importance to solutions too.
+
+You need to prepare the right question to tehn have a good brainstorming session
+
+Benefit -> Why also benefit you and also them.
+
+Always keep it inclusive.
+
+## The other person would want to talk about this if the talk emphasisted is on we rather than I
+
+ 
