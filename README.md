@@ -12,14 +12,14 @@
 		* [Authenticity](#Authenticity)
 * [Communication](#Communication)
 	* [Kind Of Communications](#Kind-Of-Communications)
-	* [Effective Strategies](#Effective Strategies)
-	* [Effective Structures](#Effective Structures)
+	* [Effective Strategies](#Effective-Strategies)
+	* [Effective Structures](#Effective-Structures)
 * [Conflict Resolution](#Conflict-Resolution)	
 	* [Sources of Conflict](#Sources-of-Conflict)	
 	* [Solving Conflicts](#Solving-Conflicts)	
 		* [Win-Win](#Win-Win)	
-		* [Another Strategy](#Another Strategy)	
-	* [Most Common Tricky Tactics](#Most Common Tricky Tactics)	
+		* [Another Strategy](#Another-Strategy)
+	* [Most Common Tricky Tactics](#Most-Common-Tricky-Tactics)	
 * [Negotiation](#Negotiation)
 
 # Responsabilities
