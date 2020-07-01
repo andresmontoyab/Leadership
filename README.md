@@ -21,6 +21,21 @@
 		* [Another Strategy](#Another-Strategy)
 	* [Most Common Tricky Tactics](#Most-Common-Tricky-Tactics)	
 * [Negotiation](#Negotiation)
+	* [Framework Agreement](#Framework-Agreement)
+	* [Positive No](#Positive-No)
+	* [Different Styles Negotiation](#Different-Styles-Negotiation)
+		* [Hard Styles](#Hard-Styles)
+		* [Soft Styles](#Soft-Styles)
+		* [Win-Win Style](#Win-Win-Style)
+	* [Negotiation Skills](#Negotiation-Skills)
+		* [Listen Actively](#Listen-Actively)
+		* [Direct Communication](#Direct-Communication)
+	* [BATNA](#BATNA)
+		* [Develop BATNA](#Develop-BATNA)
+	* [Planning your negotations](#Planning-your-negotations)
+		* [Preparation of the negotation](#Preparation-of-the-negotation)
+		* [Do Negotiation](#Do-Negotiation)
+		* [Closing the negotiation](#Closing-the-negotiation)
 
 # Responsabilities
 
@@ -306,7 +321,7 @@ or lack of resources, nevertheless deeply there is one reason, "There is a need 
 
 ## Solving Conflicts
 
-When we are solving conflicts is very important always start with the question What is your reason to be updaset?, What is behind the customer positions? or
+When we are solving conflicts is very important always start with the question What is your reason to be upset?, What is behind the customer positions? or
 What are the needs that you have?
 
 All Ideas are good ideas.
@@ -317,7 +332,7 @@ Be inspired by ideas
 
 ### Win-Win
 
-Creating options that met all parties met.(Create option that supply needs of all the sides)
+Creating options that met all parties requirements.(Create option that supply needs of all the sides)
 
 Steps for negotiations
 
@@ -344,8 +359,8 @@ In this scenario we should focus in the problems instead of the people
 
 2. Psychological warfare
 
-In order to win the negotiation over you, the other party may try to make feel uncomfortable using tactics that we will refer to a psychological warfare,
-they will try to create stressful situations like trying to manipulate where the meeting is going to happend for example, they will try it to have in their territory,
+In order to win the negotiation over you, the other party may try to make you feel uncomfortable using tactics that we will refer to a psychological warfare,
+they will try to create stressful situations like trying to manipulate you where the meeting is going to happend for example, they will try it to have in their territory,
 so then they feel in control. 
 
 * What do to?
@@ -354,7 +369,7 @@ Raise the Issue explicitly
 
 3. Positional Pressure Tactics
 
-This are use to structure the situation when only one side can make consecions, some of them refuse to negotiate.
+This are use to structure the situation when only one side can make connecions, some of them refuse to negotiate.
 
 * What to do ?	
 
@@ -363,111 +378,103 @@ Do not attack them for refuse to negotiate, but rather find out intersting why t
 
 # Negotiation
 
-Separete the people from the problem.
-
-Focus on interests, not positions
-
-Invent options for mutual gain.
-
-Use Objective Criteria
-
-
-BATNA - Best Alternative to a negotiated agreements.
-
-Every people negotiate in differente ways.
-
-How one culture may look at the negotiation process totally different than another.
+In almost every situation in our life we are going face negotations, and in order to improve this process there are certain strategies and skills
+that are going to help us to get what we want and also keeping a strong and truly relationship with the other parties.
 
 ## Framework Agreement
 
-Create questions
+It is really important to have a framework agreement and use it as a guide in order to define your goals.
 
-1. Develop Smart and realistic Goals.
+The Framework Agreement is about creating SMART Goals.
 
-Smart Goals is -> Specific, Measurable, Achievable, Realistic, Time Bound
+SMART stands for:
 
-You need to have a framework agreement and use it as a guide.
+S: Specific
+M: Measurable
+A: Achievable
+R: Realistic
+T: Time Bound
 
 ## Positive No
 
-The word no is critical in order to get to the right yes, to the smart yes.
+The word "no" is very important and also critical in order to get to the right yes, or the smart yes.
 
-No, must have a positive No., in order to create positive no , you can follow the next steps.
+We can turn a "no" into a "positive no", following the next steps.
 
-1. First start with a yes, a yes  to was is truly important to you.
+1. First start with a yes, a yes in which you said what is truly important to you.
 2. After that proceed with a no, a very clear respectful no, neutral.
-3. Create a constructive positive proposal.
-
-
-Ask good questions and listen carefully.
-
-You are not the target, your job as a profesional is through remain calm, confident, positive and polite through out, and then jsut ask more questions.
+3. Finally create a constructive positive proposal.
 
 ## Different Styles Negotiation
 
-1. Hard Styles
+### Hard Styles
  
-this style depends on taking position, both parties hold on to a fixed idea. Convincing and forcing the other side, in this case one side win and the 
+This style depends on taking position, both parties hold on to a fixed idea. Convincing and forcing the other side, in this case one side win and the 
 other loses
 
-Unconstructive and inefftive
+Disavantages with this approach:
 
-Trust is broken
+1. Unconstructive and inefftive
 
-Relationships will be damaged
+2. Trust is broken
 
-2. Soft Styles
+3. Relationships will be damaged
 
-Being eager to please.
+### Soft Styles
 
-One side needs to reach an agreement and build an maintain the relationship
+This style basically means that one side makes offers and concessions, changing their position easily in order to create an agreement and avoid confrontation.
 
-One side makes offers and concessions, changing their position easily in order to reac an agreement and avoid confrontation.
+Disavantages with this approach:
 
-Problem solved in the short term, but the conflic remains unsolved. 
+1. When you use it constantly make you vulnerable to someone who plays a hard game
 
-When you use it constantly make you vulnerable to someone who plays a hard game
+2. Problem solved in the short term, but the conflic remains unsolved. 
 
-3. Win-Win
+3. One side needs to reach an agreement and build an maintain the relationship
 
-Separate people from problems. -> Face the problem no t the people.
+### Win-Win Style
 
-Dont focus on positions, focus on interests and needs
+Win-Win to an negotation strategy in which both parties are getting what they want. This strategy is based in four statements:
 
-Generate options for mutual gain. Give yourself the opportunity to think out of the box and create more options to make better agreements
+1. Separate people from problems.
 
-Develop objective criteria. -> Avoid sharing your data as if you had the truth
+2. Dont focus on positions, focus on interests and needs
+
+3. Generate options for mutual gain. Give yourself the opportunity to think out of the box and create more options to make better agreements
+
+4. Develop objective criteria.
 
 ![](https://github.com/andresmontoyab/Leadership/blob/master/resources/win-win.PNG) 
 
 ## Negotiation Skills
 
-1. Listen Actively
+### Listen Actively
 
-IS NOT Shutting up and thinking about your next response
+What IS Listen Actively?
 
-IS NOT being silent to avoid conflict
+1. Identify the problem
+2. Understand their motives and interests
+3. To explore options and listen to the other side objective criteria
 
-IS NOT a strategy to let the other side talk so you can identify their weaknesses
+What IS NOT Listen Actively?
 
+1. IS NOT Shutting up and thinking about your next response
+2. IS NOT being silent to avoid conflict
+3. IS NOT a strategy to let the other side talk so you can identify their weaknesses
 
-Is
+### Direct Communication
 
-Identify the problem
-
-Understand their motives and interests
-
-To explore options and listen to the other side objective criteria
-
-2. Direct Communications
-
-Being straightforward and clear in your communication is critical, you need to improve your ability to communicate effectively in order to build trust with
+Being Straightforward and clear in your communication is critical, you need to improve your ability to communicate effectively in order to build trust with
 the other side.
 
-Clear Ideas
-Accurate and precise
-Aware of your words
-Two-way process
+What IS Direct Communication?
+
+1. Clear Ideas
+2. Accurate and precise
+3. Aware of your words
+4. Two-way process
+
+What IS NOT Direct Communication?
 
 IS NOT promise something you cant deliver
 IS NOT threatening
@@ -477,8 +484,7 @@ IS NOT Lying
 
 Avoid a bad business deal.
 
-Develop a batna (Best alternative to a negotiated agreement) is creitical for the success of your negotiating
-
+Develop a batna (Best alternative to a negotiated agreement) is critical for the success of your negotiating
 
 Batna is always about exploring alternatives.
 
@@ -486,9 +492,7 @@ If you're selling the batna is the lowest that you will aceppt.
 
 If you're buying is the highest price that you will pay.
 
-
 In other words the batna protects you from making bad decisions
-
 
 ### Develop BATNA
 
@@ -502,53 +506,55 @@ Some faact that you should take into account when you're selecting your alternat
 
 ## Planning your negotations
 
-1. Preparation of the negotations
+### Preparation of the negotation
 
-Most important step
+Most important steps:
 
 What do you need to do:
 
-Research -> Gather information about the players.
+1. Research -> Gather information about the players.
 
-Identify -> Set your objectives clearly
+2. Identify -> Set your objectives clearly
 
-Analyze -> Assesss your strengths and risks
+3. Analyze -> Assesss your strengths and risks
 
-Develop yuor Batna
+4. Develop yuor Batna
 
-Plan to build trust
+5. Plan to build trust
 
-2. Negotiation
+### Do Negotiation
 
 During the negotation you're going to use all the information that you have
 
-Stay calm
+1. Stay calm
 
-Stick to your plans
+2. Stick to your plans
 
-Be flexible.
+3. Be flexible.
 
-process of giving and taking
+4. Process of giving and taking
 
-introduce yourself and set the agenda.
+5. Introduce yourself and set the agenda.
 
-Remember your objectives
+6. Remember your objectives
 
-Check your understanting of the others proposal.
+7. Check your understanting of the others proposal.
 
-Focus on ideas and concepts.
+8. Focus on ideas and concepts.
 
-Offer and listen to their alternatives
+9. Offer and listen to their alternatives
 
-3. Closing the negotiation
+### Closing the negotiation
 
-Revisit your objectives.
+1. Revisit your objectives.
 
-Express agreements and concession already made clearly.
+2. Express agreements and concession already made clearly.
 
-Use closing statements.
+3. Use closing statements.
 
-Get agreements in writings
+4. Get agreements in writings
 
 ![](https://github.com/andresmontoyab/Leadership/blob/master/resources/planning-negotiation.PNG) 
+
+# Risk Management
 
