@@ -389,11 +389,11 @@ The Framework Agreement is about creating SMART Goals.
 
 SMART stands for:
 
-S: Specific
-M: Measurable
-A: Achievable
-R: Realistic
-T: Time Bound
+*. S: Specific
+*. M: Measurable
+*. A: Achievable
+*. R: Realistic
+*. T: Time Bound
 
 ## Positive No
 
