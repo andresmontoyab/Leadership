@@ -36,7 +36,38 @@
 		* [Preparation of the negotation](#Preparation-of-the-negotation)
 		* [Do Negotiation](#Do-Negotiation)
 		* [Closing the negotiation](#Closing-the-negotiation)
-
+* [Risk Management](#Risk-Management)
+	* [Risk Management Benefits](#Risk-Management-Benefits)
+	* [Risk Identifications](#Risk-Identifications)
+		* [Risk Dimensions /SWOT](#Risk-Dimensions-/SWOT)
+	* [Risk Assessment](#Risk-Assessment)
+	* [Probability & Impact Measures.](#Probability-&-Impact-Measures.)
+		* [Exposure Matrix](#Exposure-Matrix)
+	* [Risk Response](#Risk-Response)
+* [Mentoring](#Mentoring)
+	* [4 Step Process](#4-Step-Process)
+	* [Mentoring vs Coaching](#Mentoring-vs-Coaching)
+		* [Coaching](#Coaching)
+		* [Mentoring Skills](#Mentoring-Skills)
+	* [Notes](#Notes)
+		* [Mentee](#Mentee)
+		* [Mentor](#Mentor)
+* Leading TeamsRisk](#Leading-Teams)
+	* [Working across culture.](#Working-across-culture.)
+	* [Empowering your team.](#Empowering-your-team.)
+	* [Faciliting Effecient Meetings](#Faciliting-Effecient-Meetings)
+* [Team Coordination](#Team-Coordination)
+	* [Large or Multiple Teams](#Large-or-Multiple-Teams)
+		* [Delegation.](#Delegation.)
+		* [Power Of conversation](#Power-Of-conversation)
+* [Proactivity and Thinking out of the box.](#Proactivity-and-Thinking-out-of-the-box.)
+	* [Proactive](#Proactive)
+* [Release Management](#Release-Management)
+	* [Release Approachvvv](#Release-Approach)
+		* [Define a regular release cycle.](#Define-a-regular-release-cycle.)
+		* [Establish a branching strategy.](#Establish-a-branching-strategy.)
+		* [Get use of Tools](#Get-use-of-Tools)	
+	
 # Responsabilities
 
 ## Technical
@@ -557,4 +588,422 @@ During the negotation you're going to use all the information that you have
 ![](https://github.com/andresmontoyab/Leadership/blob/master/resources/planning-negotiation.PNG) 
 
 # Risk Management
+
+Risk is an uncertain event or condition that can have a negative impact on project's objectives such as time, cost, quality, team motivation and so on. It is 
+very important to know that is there is no uncertainty is not a risk, it is a problem that need to be solved ASAP.
+
+## Risk Management Benefits.
+
+1. Improved capacity to manage project.
+
+2. Enhanced communication.
+
+3. Lead to an improved culture of awareness and understanding.
+
+4. Better Alignment of project and organization risks.
+
+5. Empowerment of project teams enabling them to accept responsabilities for risk management.
+
+## Risk Identifications
+
+Risk identification is the process of determining risks that could potentially prevent the project from achieving its objectives.
+
+There are multiples sources of risk, for risks identification the project team should review the scope, cost estimates, delivery schedule, 
+performance challenges,  stakeholder expectations vs current plan, implementation challenges, integrations, release process and so on.
+
+Risk identification is an iterations process, as the development progresses more information will be gain, also new risks will be identified as the project progresses to the life cycle.
+
+Risk identification is done entire team, not only the leaders.
+
+### Risk Dimensions /SWOT
+
+1. Helpful / Harmfull
+
+This is a simple assessment of factors that have a potentially positive or negative influence on the success of our project.
+
+Helpful -> Advances the objectives of the project
+
+Harmnful -> Put in danger the outcome of the project
+
+2. Identification of the source.
+
+Internal -> Factors originated inside of the organization or within this field of influence of the project
+
+External -> Factors originated outside of the organization that can not usually be influence by the project.
+
+
+![](https://github.com/andresmontoyab/Leadership/blob/master/resources/risk-management.PNG)
+
+Usually Weaknesses are factor that we could have under control, some examples are:
+
+1. Insufficient resources.
+2. Limited budget.
+3. Aggressive timeline
+4. Lack of important skills.
+5. Technical uncertainties.
+6. Lack of stakeholder consensus.
+7. Third party dependencies.
+
+In the other hand Threats are factor in where we dont have control, some examples of Threats are:
+
+1. Changes in the economy.
+2. Pandemics.
+3. Geopolitical Tensions.
+4. Economic uncertainty.
+5. Changing lesgislations.
+6. Changing competitive landscape.
+
+## Risk Assessment
+
+Risk assessment & clasification is necessary in order to start analyzing root causes and plan actions.
+
+Each risk need to be categorized as to the affected area, likely hood and level of impact that may have in the project.
+
+### Affected Areas:
+
+1. Cost.
+2. Scope.
+3. Client Satisfactions.
+4. Legal contracts.
+5. Deployment.
+6. Staffing.
+7. Quality Control.
+8. Performance 
+
+## Probability & Impact Measures.
+
+Different types of risk management plans can deal with calculating the probability of an event, and how that event might impact you and how to mitigate the problems
+associate with those risks. Having a plan helps to deal with adverse situations when they arises and hopefully, headthem off before they arise. 
+
+![](https://github.com/andresmontoyab/Leadership/blob/master/resources/probability-vs-impact.PNG)
+
+### Exposure Matrix
+
+![](https://github.com/andresmontoyab/Leadership/blob/master/resources/exposure-matrix.PNG)
+
+Those areas in read are the ones with major risks exposure. The team should focus in those areas and define mitigations actions for them or resolution plan which will tend   
+to avoid or reduce the posible impact on the project.
+
+## Risk Response
+
+Do the difficult, risky stuff front, applying the "Fail Early" strategy
+
+### Mitigations
+
+Is a group of actions to applied before the risk happens in order to reduce the impact in the project.
+
+### Prevention
+
+Take actions to reduce the probability.
+
+### Monitoring 
+
+Take actions to build leading indicator for early detections
+
+### Transfer
+
+Take actions delegate or escalate.
+
+### Accept
+
+Take actions to communicate. 
+
+# Mentoring
+
+You don't need to be perfect in order to be an effective mentor, as a mentor you teach both skills and character.
+
+You should only mentor a person who is ready, willing, and able to grow.
+
+Look for a FAT person:
+
+1. Faithful. 
+2. Availabl. 
+3. Teacheable.
+
+## 4 Step Process
+
+The 4 Step process is a strategy to start the guidance for the mentee.
+
+1. I do the task, you watch and learn.
+2. We do the task together.
+3. You do the task and I watch and I offer feedback.
+4. You do the task.
+
+## Mentoring vs Coaching
+
+### Coaching
+
+1. Guidance
+2. Encouragement.
+3. Support
+
+Coaching Skills
+
+1. Presence.
+2. Listening.
+3. Powerful questioning.
+4. Effective Feedback
+
+### Mentoring Skills
+
+Mentoring is define as a one-one relationship between a less experience person and a more experience person, like coaching it is intend to adressed the proffesional
+development of the individual.
+
+The difference between mentoring and coaching is that mentoring focuses in on sharing knowledge and experiences with the mentee to help them develop 
+increase knowledge.
+
+To be effective as a manager who develops people, the manager needs to know when to coach (when to ask) and when to mentoring(when to tell).
+
+One day of mentoring can change a life forever.!
+
+## Notes
+
+What happens when we failed?
+
+1. Stay down.
+2. Return
+3. Grow - Learn
+
+Unfortanly we dont leave ourself open about what can come in the future, and trying to minimize pain can cause long term pain.
+
+Learning Cycle.
+
+Try - Fail - Learn - Grow
+
+Every tried, every fail no matter, try again, fail again, fail better.
+
+A mentor is somebody who comes and meet us what we are.
+
+1. Open & Comfortable
+
+Open to posibilities, they see the world as an expansive exciting curious place, there are comfortable in their own skin, 
+they're Comfortable being the wrong person and as a result they dont have a plan for your life, they dont try to manipulate you,
+they dont try to control you, they want you be comfortable in your skin.
+
+2. They are more interest in what is going internally that externally, mentoring understand that what happends inside of you, and how 
+your character develops, that will one day be outside of you.
+
+3. The tend to be able to celebrate the rights, but also to fall, and they'll sit with you in the fall, the dissapointment and heart break.
+
+What a mentor really does, they bringing to the learning cycle again and again, until you become very used to it. 
+
+The mentor is not the only responsable of the mentoring, the main role is the mentee, they have to be avaialble, teacheable and also is very
+important for the mentee that they define the goals is where they want to improve. 
+
+### Mentee
+
+1. Available.
+2. Know what you want to learn.
+3. Teachable.
+4. Ideally Mentee must apply/implement the new knowledge
+
+Questions to help your mentee form goals.
+
+1. Where do I want to be?
+2. What do I want to be known for?
+3. What do I stand for?
+4. How do I want to make a difference?
+
+
+### Mentor
+
+1. Mentors are critical.
+2. Challenge the mentee.
+3. Explore what they want.
+4. Speed up they development.
+5. Identy target for your mentee.
+6. Focus on measurable goals.
+
+# Leading Teams
+
+Great Leaders put the people first.
+
+We call them leader because they go first, we called them leaders because they take the risk before anybody else.
+
+1. Give Opportunities
+2. Give Educations
+3. Give Safety
+
+Three Steps to improve anything that you want to do better?
+
+1. Know thyselft -> most people overestimated they talent. You have to take responsability for learning the truth about your self. 
+2. Pick one thing to work on.
+3. Practice Daily
+
+What is important for your team -> Ask! 
+
+Build trust.
+
+## Working across culture.
+
+Perception -> People see what they want to see, I dont always see what you see.
+
+Culture -> A system of behaviour that helps us act in an accepted or familiar way.
+
+There are expression in every culture that can sounds offensive to other cultures, but that does not mean that they want to be disrespectuful, it is just 
+another way to express ideas.
+
+Ideally our purpose when we work across culture is Create global mindset.
+
+## Empowering your team.
+
+Set direcition, and get out of the way.
+
+Set goals to your teams, also you need to accept that are different ways to do it.
+
+Set Goal -> Trust in your team, they can achievete -> they could have better ways to learn.
+
+Beign a good leader aims that even if you're not present your team is going to be indepent.
+
+## Faciliting Effecient Meetings
+
+1. Each meeting shoould have a clear purpose.
+
+2. Time, how long should the meeting be. ("The shorter, the better")
+
+3. Agenda, step by step outline for the meeting.
+
+4. Preparation, prepare their questions.
+
+5. Focus, stay engage in the meeting, avoid multi-tasking.
+
+6. Leadership, every meeting must has the meeting leader, in order to make the previous 5 principles real.
+
+# Team Coordination
+
+1. Be aware in which stage you are as a team.
+
+2. Identify and use your teammates' talents.
+
+3. Develop compelling purpose
+
+4. Share and live a culture.
+
+5. Make agreements and commitments
+
+6. Develop accountability
+
+## Large or Multiple Teams
+
+Micromanaging has a negative impact on you and on yor team. 
+
+* Overloaded by work.
+
+* Extra pressure
+
+ Little time to focus
+
+### Delegation.
+
+Assigning the task the authority and the responsability.
+
+There are some problems with the delegation:
+
+1. Usually we feel the need of controlling everything.
+
+2. We are risk averse, and we think that delegate the task to another person could involve to taking an unnecesary risk
+
+3. We believe that the quality of the outcome won't be at the same high standard that It would be if we do it ourselfs.
+
+4. Explaining the task will take longer that completely by ourselves(*)
+
+5. We don't trust the team and our colleagues. 
+
+If you're leading a team and you have a one problem delegating task, please stop and start to implement new actions to overcome these obstacules and delegate 
+to your team.
+
+Tips:
+
+1. Identify Talents and interest in your team.
+
+2. Give an extra assignment
+
+3. Delegate tasks and also responsabilities.
+
+4. Follow up, work with the team in the assignment.
+
+5. Instead of criticising(*) for the desicion they make, empower the team to make good decisions.
+
+Delegation is the key when you have to deal with large teams, gives you times to focus on priorities and also is important
+to empower, develop and motived your team.
+
+### Power Of conversation
+
+1. Chat with your team
+
+2. Build a team culture.
+
+3. Develop trust.
+
+4. Put humanity where there is a screen
+
+# Proactivity and Thinking out of the box.
+
+## Proactive
+
+Being Proactive is taking intentional action to influence your situation or the environment.
+
+Being Proactive is not a mood is a midset:
+
+1. Taking responsability.
+
+2. Determine Your choices
+
+3. Act independently.
+
+# Release Management
+
+Continuos Delivery is the continual delivery of code to an environment once the developer feels the code is ready to ship. 
+This could be UAT or Staging or could be Production, but the idea is you are delivering code to a user base, whether it be a QA or 
+customer for continual review and inspection.
+
+Continuos Deployment is the deployment or release of code to production as soon as it is ready. There is no large batching in 
+staging nor long UAT process that is directly before production.
+
+![](https://github.com/andresmontoyab/Leadership/blob/master/resources/cd-cd.PNG)
+
+## Release Approach
+
+### Define a regular release cycle.
+
+A team should define a release cycle and get stick to it. With focus on the goal of add value to the customeras soon as a 
+new functionality is ready.
+
+### Establish a branching strategy.
+
+In our daily projects is very important to have a well defined branching strategy, thats because it is going to help us
+to control the versions of our application and to work with big teams in the same application, one common branching strategy
+is the next:
+
+![](https://github.com/andresmontoyab/Leadership/blob/master/resources/branching-strategy.PNG)
+
+Where:
+
+1. master -> Is the main branch of the application, in where we are going to have our latest stable versions
+
+2. hotfix -> If a bug appears we are to create a new hotfix branch that is going to be copy of master and in that
+new branch we are going to solve the bug.
+
+3. develop -> Is the branch from where the new features are going to be created, let's say that every sprint we update develop
+with all the sprint changes, but is not require that we update every sprint master.
+
+4. release -> After we achieved a milestone, we can create a new release, basically a release is a new version of the application
+in where some new features were added.
+
+5 feature -> Feature are the new updates that are being generated for the application
+
+### Get use of Tools
+
+It is nearly impossible to think in maintain a moderate level of deployments without the use of tools.
+
+Some examples are:
+
+1. Jenkins.
+
+2. Bamboo.
+
+3. Github
+
+4. Bitbucket
+
 
