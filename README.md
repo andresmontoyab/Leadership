@@ -52,7 +52,7 @@
 	* [Notes](#Notes)
 		* [Mentee](#Mentee)
 		* [Mentor](#Mentor)
-* Leading TeamsRisk](#Leading-Teams)
+* [Leading Teams](#Leading-Teams)
 	* [Working across culture.](#Working-across-culture.)
 	* [Empowering your team.](#Empowering-your-team.)
 	* [Faciliting Effecient Meetings](#Faciliting-Effecient-Meetings)
