@@ -1006,4 +1006,78 @@ Some examples are:
 
 4. Bitbucket
 
+# Product Planning
+
+## MVP
+
+Minimum viable product is not the crappiest product you could possibly release, the minimum valiable product is the smallest product release 
+that successfully achieves its desired outcomes.
+
+Minimum Viable Product is about:
+
+1. Getting to market quickly.
+2. Prioritizing what is important to the customer
+3. Rapid feedback.
+4. The smallest product possible to get you the information you need to make decisions.
+
+## Release Planning
+
+What are the main objectives when we create a release plan.
+
+1. Identify the goal, outcome and benefit(measurable)
+2. Refine the backlog for the release.
+3. Release done criteria.
+4. If there is a dealine, set it clearly
+5. Dependencies and risk.
+6. Alignment.
+7. Think about releasing to production. The day will come, so plan it.
+
+The advantages are:
+
+1. It gives the team a common vision about what needs to be achieved, and when.
+2. It guides the team in making decision with granular planning.
+3. It helps prioritize the stories.
+4. It resolves conflicts and guide the team(s) toward the right balance on trade-offs
+
+### Story Mapping.
+
+Story mapping is one structured approach to release planning that consist of ordering user stories along two dimensions:
+
+1. Horizontal
+
+The order in which you would describe activities to explain the behaviour of the system. The user steps are represented as teh main features.
+
+2. Vertical
+ 
+It represents the increasing functionality of the implementation. the user stories will be listed under the corresponding features.
+
+![](https://github.com/andresmontoyab/Leadership/blob/master/resources/story-mapping.PNG)
+
+
+## Sprint Planning
+
+Sprint Planning is the first meeting of the iteration that determines what to complete in the coming sprint. The development 
+team defines the work and effort necessary to meet their sprint commitment.
+
+This plan is created by the collaborative work of the entire development team.
+
+### Sprint Goal
+
+The sprint goal should SMART(Specific, measurable, Achievable, Realistic and time-bound) a relevant sprint goal helps you address 
+the most important challenge, and it moves you closer towards your vision or release goal.
+
+Benefits:
+
+1. Prioritization
+2. Focus and facilities teamwork
+3. relevant Feedback
+4. Communication and support
+
+#### Sprint Planning Activities.
+
+- What?
+	- Shared understanding of the goals of the upcoming sprint.
+	- Decice which PBIs from the backlog will help the development team achieve the goals
+- How ?
+	- The development team decides how it will build the PBIs identifies into a done.
 
