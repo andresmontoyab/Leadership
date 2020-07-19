@@ -67,6 +67,24 @@
 		* [Define a regular release cycle.](#Define-a-regular-release-cycle.)
 		* [Establish a branching strategy.](#Establish-a-branching-strategy.)
 		* [Get use of Tools](#Get-use-of-Tools)	
+* [Product Planning](#Product-Planning)
+	* [MVP](#MVP)
+	* [Release Planning](#Release-Planning)
+		* [Story Mapping](#Story-Mapping)
+	* [Sprint Planning](#Sprint-Planning)
+		* [Sprint Planning Activities](#Sprint-Planning-Activities)
+		* [Sprint Planning Outcomes](#Sprint-Planning-Outcomes)
+	* [Sprint Review](#Sprint-Review)
+		* [Preparing Sprint Review](#Preparing-Sprint-Review)
+		* [Sprint Review Outcomes](#Sprint-Review-Outcomes)
+* [Estimation](#Estimation)
+	* [Techniques](#Techniques)
+		* [T-Shirt Sizes](#T-Shirt Sizes)
+		* [Relative Mass Valuation](#Relative Mass Valuation)
+		* [Planning Poker](#Planning Poker)
+		* [Functional Point](#Functional Point)
+		* [WBS](#WBS)
+		* [Ballpark](#Ballpark)
 	
 # Responsabilities
 
@@ -998,13 +1016,10 @@ It is nearly impossible to think in maintain a moderate level of deployments wit
 
 Some examples are:
 
-1. Jenkins.
-
-2. Bamboo.
-
-3. Github
-
-4. Bitbucket
+- Jenkins.
+- Bamboo.
+- Github
+- Bitbucket
 
 # Product Planning
 
@@ -1073,11 +1088,110 @@ Benefits:
 3. relevant Feedback
 4. Communication and support
 
-#### Sprint Planning Activities.
+### Sprint Planning Activities.
 
 - What?
 	- Shared understanding of the goals of the upcoming sprint.
-	- Decice which PBIs from the backlog will help the development team achieve the goals
+	- Decice which PBIs (Product Backlog Item) from the backlog will help the development team achieve the goals
 - How ?
 	- The development team decides how it will build the PBIs identifies into a done.
 
+### Sprint Planning Outcomes
+
+- A clear, shared and measurable goals.
+- A list of PBIs to achieve the goals.
+- Initial set of task to complete the PBIs identifies.
+
+## Sprint Review
+
+The Main objectives of the Sprint Review is to obtains feeback for continuous improvement and for the further backlog refinement 
+and demostrate the value delivered at the end of each sprint.
+
+The sprint demo is invaluable for keeping stakeholders up to speed with the progress of product development. It allows them to provide 
+feedback and discuss with the Product Owner and development team any posible amendments to the product backlog which would 
+help to maximise value and impact.
+
+### Preparing Sprint Review
+
+- Bring the right bussiness stakeholders and other interest parties to the sprint review.
+- Show more "working software", and less PowerPoint'safe
+- Show customer-centric software workflows. Try to demostrate customer problems being solved.
+- Connect the past sprints and what is yet to come.
+- Ask, demand feedback and of course do something with it. Feedback is the Key.
+- Make sure that the work and business value that the team has completed is demostrated.
+
+### Sprint Review Outcomes
+
+- Feedback
+	- Feedback is the key, it is not enough with "It is ok". Ask the right questions
+		- Do you have any examples of how you would use this feaure?, Can we test it?
+		- Are we making you life easier.
+		- Are we actually solving the problem that you had?
+		- Is this enough to achieve the goals?, Are we closer to fullfill vision of the product?
+- Alignment
+	- One goal is that the whole team is more engaged and aligned with the product vision.
+- Happiness	
+	- At the end what it matter is that the customer love us, ask directly if they are happy and if they are not ask why.
+	
+# Estimation
+
+The estimation is the process of finding an estimate or approximation based on certain amount of information available at a given moment.
+
+As a technical leader one of your main technical responsabilities is to do the planning of the project you are leading.
+
+Estimation is a key factor in this process, as it aims to properly size tasks, epics and stories in order to get the best
+plan for your team and the client.
+
+Through your technical mastery and experience, altogether with a proper estimation process, you will be able to
+provide a feasible plan and execute a successful project.
+
+## Techniques
+
+### T-Shirt Sizes
+
+In T-shirt Sizing, the team is asked to estimate whether they think a story is extra-small, small, medium, large, extra-large,
+or double extra-large. By removing the implied precision of a numerical score, the team is free to think in a more abstract
+way about the effort involved in a story.
+
+### Relative Mass Valuation
+
+Relative mass valuation is a quick way to go though a large backlog of related stories and estimate them all. The main idea 
+is to write up a card for each story and then move them around on a table, ordering them based on their relative complexity.
+The next step is to assign point values based on the position of the stories on the table, starting with the easiest story that is
+worth assigning points to, and call it a 1.
+
+### Planning Poker
+
+Planning Poker is a game that team members can play during planning meetings to make sure that everybody participates and 
+that every voice is heard. It is one of the most used methods on agile projects and helps to spread estimation awareness 
+throughout the team, improving accuracy sprint by sprint.
+
+Steps:
+
+- Give a each team member a step of physical or virtual cards with a particular numeric valuation.
+- The number valuation for each card is given by the Fibonacci sequence, that scales from 0 to 21.
+- Read the user story out loud (Present user sotry)
+- Ask everyone in the team to show the card number that they believe the story represents
+- After the vote the teams members with lowest and highest number explains why they selected their scores
+- After the explanation of the lowest and highest the team can has a debate.
+- After the previous steps, repeat the process until there is a common vote.
+
+### Functional Point
+
+A function point is a "unit of measurement" to express the amount of business functionality an information system provides to a user.
+Function points are used to compute a functional size measurement of software. The cost of a single unit is calculated from past projects.
+It is one of the tolder methods used for estimations.
+
+### WBS
+
+Work Breakdown Structure is a hierarchical and incremental decomposition of the project into phases, deliverables, and work
+packages. It is mainly a tree structure, which shows a subdivision of effort required to achieve an objective.
+
+In a project, the WBS is developed by starting with the end functionality and subdividing it successively into manageable 
+manageable components based on size, duration, and responsibility; including all the necessary steps to achieve it. It is frequently used
+in fixed bid projects when there are detailed requirements.
+
+### Ballpark
+
+It is defined as an approximated estimate made without using adequate or complete information, or, more strongly, as an estimate 
+arrived at by guesswork or conjecture. It is frequently used for sizing in earlier stages of a project engagement.
