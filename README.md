@@ -84,7 +84,11 @@
 		* [Planning Poker](#Planning-Poker)
 		* [Functional Point](#Functional-Point)
 		* [WBS](#WBS)
-		* [Ballpark](#Ballpark)
+		* [Ballpark](#Ballpark)		
+* [Flexibility](#Flexibility)
+	* [Developing Flexibility](#Developing-Flexibility)
+	* [Resilience](#Resilience)
+	* [Developing a flexible team mindset.](#Developing-a-flexible-team-mindset.)
 	
 # Responsabilities
 
