@@ -1195,3 +1195,59 @@ in fixed bid projects when there are detailed requirements.
 
 It is defined as an approximated estimate made without using adequate or complete information, or, more strongly, as an estimate 
 arrived at by guesswork or conjecture. It is frequently used for sizing in earlier stages of a project engagement.
+
+# Flexibility
+
+What is be flexible?
+
+- Cope with changes and circumstances and thinking about problems in a novel and creative way.
+- Have ability to change a behavior 
+- Maintain a sense of balance and consistency between your values and your behaviors
+
+What is not be flexible or rigig?
+
+- Seeing things in a one-dimensional way.
+- Feeling uncomforable when things change
+- Letting your thoughts control your emotions
+
+## Developing Flexibility 
+
+- Self Awareness 
+	- Focusing on what happens inside of you
+	- Having insight about the way we behave give a sense of self - control and confidence
+	- Raising self-awareness requires pracitice:
+		- Scan your mood -> How are you feeling right now?
+		- Identify your motivies -> When you are aware of them, you can be clearer.
+- Self Control
+	- It allows you to control your impulses, think before you speak or react and express yourselft approprately.
+	- How to develop your self - control?
+		- Identify your triggers.
+		- Also mindfulness or physical activity can help up to control yourself.
+		
+## Resilience
+
+Resilience is the capacity to bounce back from stressing and difficult situations	
+
+Which factor contribute to resilience.
+
+- Relationships: Having caring and supportive relationships
+- Self - control : Capacity to manage impulses
+- Positive view of yourself : Confidence in your strengths
+- Capacity to make plans
+- Communication and problem-solver skills
+
+Some strategies to increase our resilience could be:
+
+- Taking care of yourself: Spend some specific amount of time in something that you really enjoy.
+- Make connections: Good relationships are very important.
+- Nurture a positive view of yourself.
+- Look for opportunities for self-discovery.
+- Embrace change.
+
+## Developing a flexible team mindset.
+
+- Do something differently often: Introduce some change to your team's usual routines.
+- Get out of the comfort zone: Break the tendency to maintain familiar behavioral pattern and habits.
+- LEarning something new every day: Not complicated or time consuming.
+- Boost innovations and experimentation: The point is highlighting the importance of doing it and sharing the outcomes. 
+
