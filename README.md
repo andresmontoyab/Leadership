@@ -89,6 +89,12 @@
 	* [Developing Flexibility](#Developing-Flexibility)
 	* [Resilience](#Resilience)
 	* [Developing a flexible team mindset.](#Developing-a-flexible-team-mindset.)
+* [Feedback](#Feedback)
+	* [Feedback Barriers](#Feedback-Barriers)
+	* [Giving Feedback](#Giving-Feedback)
+		* [Models for giving feedback.](#Models-for-giving-feedback.)
+	* [Receiving Feedback](#Receiving-Feedback)
+		* [Models for receiving feedback.](#Models-for-receiving-feedback.)
 	
 # Responsabilities
 
@@ -1255,3 +1261,59 @@ Some strategies to increase our resilience could be:
 - LEarning something new every day: Not complicated or time consuming.
 - Boost innovations and experimentation: The point is highlighting the importance of doing it and sharing the outcomes. 
 
+# Feedback
+
+Feedback is a gift.
+
+Feedback is not just a moment is a process:
+
+1. Before, Planning your feedback sessions
+2. Actual Feedback Sesion
+3. Check whether the feedback han an impact or not
+4. Powerfl conversations.
+
+## Feedback Barriers
+
+The most common barriers are :
+
+- Related to fear and mistrust.
+	- Fear of upsetting the other person
+	- Mistrust of our capacity in giving feedback
+-The side of receibing feedback
+	- You're not open to learn.
+	- Personal insecurity that transforms the feedback into an attack.
+	- A lower capacity to be responsible for your own actions.
+
+## Giving Feedback
+
+- Improves your skills and abilities.
+- Contribute to the development of your collaborator.
+- Practice Skills to transform this moment into a productive one.
+
+### Models for giving feedback.
+
+- Situations
+	- Describing the situation you want to give feedback about.
+- Behavior
+	- Describing being specific and objective.
+- Impact 
+	- Impact of the behavior or performance.
+- Will
+	- Co-create new and specific behaviors.
+
+## Receiving Feedback
+
+- Significant for your own growth.
+- Openness to suggestions
+- Capacity to setp back and observer the whole picture.
+
+### Models for receiving feedback.
+
+Receibing feedback is as important as giving it.
+
+- No prejudices
+	- We can consciously stop, step back and listen without being judgmental.
+- What can i learn?
+	- Those who learn and acquire the capacity to change faster have a competitive advantage.
+- Give feedback about your feedback.
+	- It improves your communication skills and your capacity to make a request.
