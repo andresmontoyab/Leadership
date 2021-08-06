@@ -9,9 +9,15 @@ EL `lider que no tenia cargo` es un pequeño libro que nos brinda consejos acerc
 
 ### Innovacion
 
+En tiempos tan cambiantes como los acuatles, debemos dar la milla extra y repensar constatement que podriamos hacer diferente.
+
 ### Maestria
 
+Para poder ejercer un verdadero liderazgo deberemos tener un solido conocimiennto en aquello en lo que queremos liderar
+
 ### Autenticidad
+
+No trates de emitar, simplemente se como eres.
 
 ### Gran Valor
 
@@ -27,7 +33,11 @@ EL `lider que no tenia cargo` es un pequeño libro que nos brinda consejos acerc
 
 ### Responder y no reaccionar
 
+Anteponerse a las situaciones es una estrategia muy util, no podemos siempre esperar que una accion caotica pase para tomar una accion, habran circunstancias en las cuales podremos anteponernos.
+
 ### Kudos
+
+Celebrar los existos.
 
 ## Cuanto mas profundas sean tus relaciones, mas fuerte sera tu liderazgo
 
@@ -45,9 +55,13 @@ EL `lider que no tenia cargo` es un pequeño libro que nos brinda consejos acerc
 
 ### Saber percibir
 
+Ver el mundo como realmente es, no como queremos que sea.
+
 ### Hacer ejercicio y cuidar la salud
 
 ### Inspiracion
+
+Para poder ser excelentes lideres e inspirar a las demas personas, primero debemos estar inspirados nosotros, tener un sentido.
 
 ### Nutrir lazos familiares
 
